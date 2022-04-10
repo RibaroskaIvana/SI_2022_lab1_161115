@@ -2,4 +2,4 @@ milk x2
 eggs x6
 bread x1
 apples x5
-bananas x5
+bananas x7
