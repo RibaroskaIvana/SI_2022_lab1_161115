@@ -1,5 +1,5 @@
-milk
-eggs
-bread
-apples
-bananas
+milk x2
+eggs x6
+bread x1
+apples x5
+bananas x5
